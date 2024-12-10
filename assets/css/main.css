@@ -15,7 +15,7 @@
 #particles-js {
   background-image: url("/particle-vc-/assets/img/a4d2099b-fd39-47ab-805f-f4868ca1722e.jpeg");
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 
 
