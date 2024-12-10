@@ -35,3 +35,10 @@
 #particles-js {
   background: none;
   }
+  
+.iban {
+  font-family: monospace;
+  background-color: grey;
+  border-radius: 10px;
+  padding: 3px;
+}
