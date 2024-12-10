@@ -15,3 +15,7 @@
 .particle-js {
   background-image: url("/assets/img/a4d2099b-fd39-47ab-805f-f4868ca1722e.jpeg");
 }
+
+.center {
+  text-align: center;
+}
