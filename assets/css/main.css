@@ -38,7 +38,7 @@
   
 .iban {
   font-family: monospace;
-  background-color: grey;
-  border-radius: 10px;
-  padding: 3px;
+  background-color: ghostwhite;
+  border-radius: 5px;
+  padding: 5px;
 }
