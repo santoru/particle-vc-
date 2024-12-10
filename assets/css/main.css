@@ -31,3 +31,7 @@
 .big {
   font-size: 150%;
 }
+
+#particles-js {
+  background: none;
+  }
