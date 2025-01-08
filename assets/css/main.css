@@ -8,8 +8,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=WindSong');
 
+@font-face {
+  font-family: 'SophiaMartini';
+  src: url('../fonts/Sophia\ Martini.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .fancy-font {
-  font-family: "WindSong", cursive
+  font-family: "SophiaMartini", cursive
 }
 
 #container {
