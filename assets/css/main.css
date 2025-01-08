@@ -16,7 +16,8 @@
 }
 
 .fancy-font {
-  font-family: "SophiaMartini", cursive
+  font-family: "SophiaMartini", cursive;
+  line-height: 2;
 }
 
 #container {
