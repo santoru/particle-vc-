@@ -40,8 +40,8 @@
   width: 100%;
 }
 
-.bbi {
-  font-size: 150%;
+.site-title {
+  margin-top: 20px;
 }
 
 #particles-js {
