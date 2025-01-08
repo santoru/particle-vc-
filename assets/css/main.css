@@ -68,3 +68,7 @@ p {
 a, a:hover, a:visited {
   color: #9eba9e
 }
+
+.it {
+  font-style: italic;
+}
