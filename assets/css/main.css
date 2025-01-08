@@ -17,12 +17,11 @@
 
 .fancy-font {
   font-family: "SophiaMartini", cursive;
-  line-height: 2;
+  line-height: 1.8 !important;
 }
 
 .ff-font {
   font-family: "WindSong", cursive;
-  line-height: 2;
 }
 
 #container {
